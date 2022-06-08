@@ -12,3 +12,4 @@ This repository contains, learning material about spark
 
 ### YT
 1. [Bitnami Spark Docker](https://www.youtube.com/watch?v=Zr_FqYKC6Qc)
+2. [Set up Spark env](https://www.youtube.com/watch?v=luiJttJVeBA)
