@@ -4,6 +4,11 @@ This repository contains, learning material about spark
 
 ## Spark on Kubernates
 
+## commands
+1. docker image with jupyter and spark - 
+docker run --rm -p 4040:4040 -p 8888:8888 -v $(pwd)={directory to map on loacl} jupyter/all-spark-notebook
+
+
 
 ### Blogs
 1. https://towardsdatascience.com/diy-apache-spark-docker-bb4f11c10d24
